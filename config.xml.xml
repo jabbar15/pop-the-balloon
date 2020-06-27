@@ -1,0 +1,12 @@
+ <?xml version='1.0' encoding='utf-8'?>
+<widget id="jab1" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0">
+	<name>PhoneGap Build App</name>
+	<description>
+		This is a balloon pop game.Avoid the beetle and you will be save.
+	</description>
+
+	<author email="eshraf@hotmail.com.com"  
+	</author>jabbar1
+
+	  
+</widget>
